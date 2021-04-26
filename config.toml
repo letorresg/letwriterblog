@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Blog of L.E. Torres"
+#title = "Blog of L.E. Torres"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -20,7 +20,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
     title = "L.E. Torres"
-    author = "Luis Enrique Torres"
+    author = "L.E. Torres"
     #copyright = "2021-2022"
     description = "Blog of author Luis Enrique Torres"
     profilePicture = "images/profile.png"
