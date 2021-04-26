@@ -1,5 +1,5 @@
 ---
-title: 'The Figure Shortcode - ENG MODIFIED'
+title: 'The Figure Shortcode - The write post'
 date: 2021-03-13T21:47:41+00:00
 draft: false
 tags: 
