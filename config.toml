@@ -71,12 +71,6 @@ pygmentsCodefencesGuessSyntax = true
   identifier = "about"
   url = "/about/"
 
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
-
 [Languages]
     [Languages.en]
         title = "My blog"
