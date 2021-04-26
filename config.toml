@@ -33,7 +33,8 @@ pygmentsCodefencesGuessSyntax = true
     ## Social links
     # use 'fab' when brand icons, use 'fas' when standard solid icons.
     [[params.socialIcons]]
-    icon = "fab fa-linkedin"
+    #icon = "fab fa-linkedin"
+    name = "fab fa-linkedin"
     title = "Linkedin"
     url = "https://de.linkedin.com/"
 
