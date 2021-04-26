@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313"
 languageCode = "en"
 DefaultContentLanguage = "en"
-#title = "Blog of L.E. Torres"
+#title = "Award-winning author of Seven Worlds RPG"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
