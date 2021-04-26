@@ -73,7 +73,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Languages]
     [Languages.en]
-        title = "My blog"
+        title = "L.E. Torres"
         weight = 1
         LanguageName = "EN"
         contentDir = "content/english"
