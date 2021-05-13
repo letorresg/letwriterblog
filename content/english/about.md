@@ -6,6 +6,24 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
+### Self-Published as [Intellistories](http://www.sevenworldsrpg.com):
+* _Seven Worlds Campaign Book_
+* _Seven Worlds Setting Guide_
+* _Seven Worlds Fate Conversion_
+
+### Published by [Modiphius](https://www.modiphius.com):
+* _ACHTUNG! Cthulhu: Assault on the Mountains of Madness_ (Savage Worlds stats conversion)
+
+### Published by [Triple Ace Games](http://www.tripleacegames.com/ace-tales/):
+* _Ace Tale Contest: A Stitch in Time_
+* _Ace Tale Contest: Everybody Comes to Trix_
+* _Daring Tales of the Space Lanes #8: The Doomsday War_
+* _Sundered Skies: Within the Skies_ Adventure compilation
+    * _Darkhome_
+    * _Lifemother's Home_
+    * _The Symphony_
+
+
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
