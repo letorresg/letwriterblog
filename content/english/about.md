@@ -24,6 +24,7 @@ author = "Hugo Authors"
 
 
 ![myimage](/static/images/landscape.jpg)
+<img src="/static/images/landscape.jpg">
 
 
 ### Published by [Modiphius](https://www.modiphius.com):
