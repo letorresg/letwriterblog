@@ -7,9 +7,24 @@ author = "Hugo Authors"
 +++
 
 ### Self-Published as [Intellistories](http://www.sevenworldsrpg.com):
-* _Seven Worlds Campaign Book_
-* _Seven Worlds Setting Guide_
+* _Seven Worlds Setting Guide_ (Hardcover)
+![Seven Worlds Setting Guide Cover](/static/images/7WSettingGuide.jpg)
+* _Seven Worlds Campaign Book_ (Softcover)
+![Seven Worlds Campaign Book Cover](/static/images/7WCampaignBook.jpg)
+* _Seven Worlds Episode 1: Rumors of War_
+* _Seven Worlds Episode 2: Divided We Fall_
+* _Seven Worlds Episode 3: Into the Fire_
+* _Seven Worlds Episode 4: Broken Circle_
+* _Seven Worlds Episode 5: Chrysalis_
+* _Seven Worlds Episode 6: Exodus_
+* _Seven Worlds Episode 7: Endgame_
 * _Seven Worlds Fate Conversion_
+* _Seven Worlds GM Screen_
+* _Seven Worlds Test Drive_
+
+
+![myimage](/static/images/landscape.jpg)
+
 
 ### Published by [Modiphius](https://www.modiphius.com):
 * _ACHTUNG! Cthulhu: Assault on the Mountains of Madness_ (Savage Worlds stats conversion)
@@ -20,7 +35,7 @@ author = "Hugo Authors"
 * _Daring Tales of the Space Lanes #8: The Doomsday War_
 * _Sundered Skies: Within the Skies_ Adventure compilation
     * _Darkhome_
-    * _Lifemother's Home_
+    * _Lifemothers Home_
     * _The Symphony_
 
 
