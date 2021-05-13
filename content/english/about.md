@@ -26,6 +26,8 @@ author = "Hugo Authors"
 ![myimage](/static/images/landscape.jpg)
 <img src="/static/images/landscape.jpg">
 
+{{< figure src="/static/images/landscape.jpg" title="Test of Shortcode" >}}
+
 
 ### Published by [Modiphius](https://www.modiphius.com):
 * _ACHTUNG! Cthulhu: Assault on the Mountains of Madness_ (Savage Worlds stats conversion)
