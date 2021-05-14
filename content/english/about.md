@@ -7,8 +7,8 @@ author = "Hugo Authors"
 +++
 
 ### Self-Published as [Intellistories](http://www.sevenworldsrpg.com):
-* _Seven Worlds Setting Guide_ (Hardcover)
-* _Seven Worlds Campaign Book_ (Softcover)
+* _Seven Worlds Setting Guide_ (207-page 8.5"x11" Hardcover)
+* _Seven Worlds Campaign Book_ (252-page 8.5"x11" Softcover)
 * _Seven Worlds Episode 1: Rumors of War_
 * _Seven Worlds Episode 2: Divided We Fall_
 * _Seven Worlds Episode 3: Into the Fire_
@@ -20,16 +20,13 @@ author = "Hugo Authors"
 * _Seven Worlds GM Screen_
 * _Seven Worlds Test Drive_
 
-![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg)
+![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Module 1](/images/7WModule1.jpg)
 ---- | ---- | ---- 
-![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg)
-
-
-
-![myimage](/images/landscape.jpg)
-<img src="/landscape.jpg">
-
-{{< figure src="/images/landscape.jpg" title="Test of Shortcode" >}}
+![Seven Worlds Module 2](/images/7WModule2.jpg) | ![Seven Worlds Module 3](/images/7WModule3.jpg) | ![Seven Worlds Module 4](/images/7WModule4.jpg)
+---- | ---- | ---- 
+![Seven Worlds Module 5](/images/7WModule5.jpg) | ![Seven Worlds Module 6](/images/7WModule6.jpg) | ![Seven Worlds Module 7](/images/7WModule7.jpg)
+---- | ---- | ---- 
+![Seven Worlds Test Drive](/images/7WTestDrive.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg) |
 
 
 ### Published by [Modiphius](https://www.modiphius.com):
