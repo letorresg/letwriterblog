@@ -27,7 +27,7 @@ Websites built with Hugo are extremelly fast, secure and can be deployed anywher
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
-## Self-Published as [Intellistories](http://www.sevenworldsrpg.com):
+## Works Self-Published as [Intellistories](http://www.sevenworldsrpg.com):
 * _Seven Worlds Setting Guide_ (207-page 8.5"x11" Hardcover)
     * Recipient of the [Atomic Rockets Seal of Approval for Scientific Accuracy](http://www.projectrho.com/public_html/rocket/sealofapproval.php#sevenworlds)
 * _Seven Worlds Campaign Book_ (252-page 8.5"x11" Softcover) (2018 ENNie Award nominee for _Best Adventure of the Year_)
@@ -42,7 +42,25 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 * _Seven Worlds GM Screen_
 * _Seven Worlds Test Drive_
 
-### Some Reviews of Seven Worlds:
+## Works Published by [Modiphius](https://www.modiphius.com):
+* _ACHTUNG! Cthulhu: Assault on the Mountains of Madness_ (Savage Worlds stats conversion)
+
+## Works Published by [Triple Ace Games](http://www.tripleacegames.com/ace-tales/):
+* _Ace Tale Contest: A Stitch in Time_
+* _Ace Tale Contest: Everybody Comes to Trix_
+* _Daring Tales of the Space Lanes #8: The Doomsday War_
+* _Sundered Skies: Within the Skies_ Adventure compilation
+    * _Darkhome_
+    * _Lifemothers Home_
+    * _The Symphony_
+
+![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Module 1](/images/7WModule1.jpg) | ![Seven Worlds Module 2](/images/7WModule2.jpg)
+---- | ---- | ---- | ----
+![Seven Worlds Module 3](/images/7WModule3.jpg) | ![Seven Worlds Module 4](/images/7WModule4.jpg) | ![Seven Worlds Module 5](/images/7WModule5.jpg) | ![Seven Worlds Module 6](/images/7WModule6.jpg)
+---- | ---- | ---- | ----
+![Seven Worlds Module 7](/images/7WModule7.jpg) | ![Seven Worlds Test Drive](/images/7WTestDrive.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg)
+
+## Some Reviews of Seven Worlds:
 
 * [RPG.NET](https://www.rpg.net/reviews/archive/17/17549.phtml)
     * _"When it comes to a thoughtful sci-fi setting, Seven Worlds is at the forefront."_ 
@@ -58,25 +76,4 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 * [Halfway Station](https://andyslack.wordpress.com/2017/08/05/review-seven-worlds-campaign/)
     * _"[The Seven Worlds Campaign] would make a pretty good TV series."_
     * _"If you can find 4-5 hard SF fans who love The Expanse and Babylon 5... they will love Seven Worlds!"_
-
-
-## Published by [Modiphius](https://www.modiphius.com):
-* _ACHTUNG! Cthulhu: Assault on the Mountains of Madness_ (Savage Worlds stats conversion)
-
-## Published by [Triple Ace Games](http://www.tripleacegames.com/ace-tales/):
-* _Ace Tale Contest: A Stitch in Time_
-* _Ace Tale Contest: Everybody Comes to Trix_
-* _Daring Tales of the Space Lanes #8: The Doomsday War_
-* _Sundered Skies: Within the Skies_ Adventure compilation
-    * _Darkhome_
-    * _Lifemothers Home_
-    * _The Symphony_
-
-
-![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Module 1](/images/7WModule1.jpg) | ![Seven Worlds Module 2](/images/7WModule2.jpg)
----- | ---- | ---- | ----
-![Seven Worlds Module 3](/images/7WModule3.jpg) | ![Seven Worlds Module 4](/images/7WModule4.jpg) | ![Seven Worlds Module 5](/images/7WModule5.jpg) | ![Seven Worlds Module 6](/images/7WModule6.jpg)
----- | ---- | ---- | ----
-![Seven Worlds Module 7](/images/7WModule7.jpg) | ![Seven Worlds Test Drive](/images/7WTestDrive.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg)
-
 
