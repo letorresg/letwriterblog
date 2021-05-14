@@ -20,13 +20,11 @@ author = "Hugo Authors"
 * _Seven Worlds GM Screen_
 * _Seven Worlds Test Drive_
 
-![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Module 1](/images/7WModule1.jpg)
----- | ---- | ---- 
-![Seven Worlds Module 2](/images/7WModule2.jpg) | ![Seven Worlds Module 3](/images/7WModule3.jpg) | ![Seven Worlds Module 4](/images/7WModule4.jpg)
----- | ---- | ---- 
-![Seven Worlds Module 5](/images/7WModule5.jpg) | ![Seven Worlds Module 6](/images/7WModule6.jpg) | ![Seven Worlds Module 7](/images/7WModule7.jpg)
----- | ---- | ---- 
-![Seven Worlds Test Drive](/images/7WTestDrive.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg) |
+![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Module 1](/images/7WModule1.jpg) | ![Seven Worlds Module 2](/images/7WModule2.jpg)
+---- | ---- | ---- | ----
+![Seven Worlds Module 3](/images/7WModule3.jpg) | ![Seven Worlds Module 4](/images/7WModule4.jpg) | ![Seven Worlds Module 5](/images/7WModule5.jpg) | ![Seven Worlds Module 6](/images/7WModule6.jpg)
+---- | ---- | ---- | ----
+![Seven Worlds Module 7](/images/7WModule7.jpg) | ![Seven Worlds Test Drive](/images/7WTestDrive.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg) | ![Seven Worlds Fate Conversion](/images/7WFateConversion.jpg)
 
 
 ### Published by [Modiphius](https://www.modiphius.com):
