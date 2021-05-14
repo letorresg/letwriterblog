@@ -8,9 +8,7 @@ author = "Hugo Authors"
 
 ### Self-Published as [Intellistories](http://www.sevenworldsrpg.com):
 * _Seven Worlds Setting Guide_ (Hardcover)
-![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg)
 * _Seven Worlds Campaign Book_ (Softcover)
-![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg)
 * _Seven Worlds Episode 1: Rumors of War_
 * _Seven Worlds Episode 2: Divided We Fall_
 * _Seven Worlds Episode 3: Into the Fire_
@@ -21,6 +19,11 @@ author = "Hugo Authors"
 * _Seven Worlds Fate Conversion_
 * _Seven Worlds GM Screen_
 * _Seven Worlds Test Drive_
+
+![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg)
+---- | ---- | ---- 
+![Seven Worlds Setting Guide Cover](/images/7WSettingGuide.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg) | ![Seven Worlds Campaign Book Cover](/images/7WCampaignBook.jpg)
+
 
 
 ![myimage](/images/landscape.jpg)
